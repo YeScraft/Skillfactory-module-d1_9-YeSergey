@@ -3,8 +3,8 @@ import requests
 
 # Данные авторизации в API Trello
 auth_params = {
-    'key': "88ec0baa4378b3c5292a816dc58e057d",
-    'token': "52bbb5f65bd95f8b53dc3c9871e4f3cef2b9e09b49b9e40c30b7e29cc44bafde",
+    'key': "",
+    'token': "",
 }
 
 # Адрес, на котором расположен API Trello, # Именно туда мы будем отправлять HTTP запросы
