@@ -10,7 +10,7 @@ auth_params = {
 # Адрес, на котором расположен API Trello, # Именно туда мы будем отправлять HTTP запросы
 base_url = "https://api.trello.com/1/{}"
 
-board_id = "5ee33bb4b3e11f67637e71e9"
+board_id = ""
 
 def read():
     # Получим данные всех колонок на доске:
